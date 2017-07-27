@@ -170,7 +170,7 @@
 
                 <h1>IDRD</h1>
 
-                <center<p class="lead"><h1>CAMINATAS ECOLÓGICAS</h1></p>
+                <center<p class="lead"><h3>PARQUE METROPOLITANO SIMÓN BOLIVAR</h3></p>
 
               </div>
 
